@@ -1,0 +1,25 @@
+# Translations template for Sphinx.
+# Copyright (C) 2013 ORGANIZATION
+# This file is distributed under the same license as the Sphinx project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2013.
+# marble <martin.bless@typo3.org>, 2014.
+msgid ""
+msgstr ""
+"Language-Team: TYPO3 documentation team\n"
+"Language: en\n"
+
+#: sphinx/builders/html.py:309
+msgid "index"
+msgstr "Index"
+
+#: sphinx/builders/html.py:369
+msgid "next"
+msgstr "Next"
+
+#: sphinx/builders/html.py:378
+msgid "previous"
+msgstr "Previous"
+
+#: navigate up one level
+msgid "up"
+msgstr "Up"
